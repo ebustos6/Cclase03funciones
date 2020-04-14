@@ -1,4 +1,4 @@
-# Villegas Octavio
+# Bustos Emanuel
 # Tutorial de Git + GitHub
 
 --La primera vez:
